@@ -33,15 +33,20 @@ OWNER_ID - Your telegram id
 CAPTION - If you want to add a caption to the forwarded file, enter it here
 SESSION - Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString?v=1
 ```
+## Deploy
+<p><a href="https://heroku.com/deploy?template=https://github.com/saminsumesh/TeamSakura"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
-### Deploying on Heroku:
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/TEAM-FLUFFY/Frwdit-V1)
-
-### Deploying on Railway:
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://github.com/TEAM-FLUFFY/Frwdit-V1)
-
+<details><summary>Deploy To VPS</summary>
+<p>
+<pre>
+git clone https://github.com/SaminSumesh/TeamSakura
+# Install Packages
+# pip3 install -r requirements.txt
+Edit `info.py` with variables as given below then run bot
+python3 bot.py
+</pre>
+</p>
+</details>
 ### Legendary Way:
 #### On Linux Or VPS:
 
