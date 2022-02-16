@@ -34,7 +34,7 @@ CAPTION - If you want to add a caption to the forwarded file, enter it here
 SESSION - Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString?v=1
 ```
 ## Deploy
-<p><a href="https://heroku.com/deploy?template=https://github.com/saminsumesh/TeamSakura"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/TEAM-FLUFFY/Frwdit-V1"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 <details><summary>Deploy To VPS</summary>
 <p>
