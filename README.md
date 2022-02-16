@@ -36,11 +36,11 @@ SESSION - Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString
 
 ### Deploying on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://youtu.be/B6jQGOJDVi0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/TEAM-FLUFFY/Frwdit-V1)
 
 ### Deploying on Railway:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://youtu.be/B6jQGOJDVi0)
+[![Deploy on Railway](https://railway.app/button.svg)](https://github.com/TEAM-FLUFFY/Frwdit-V1)
 
 ### Legendary Way:
 #### On Linux Or VPS:
